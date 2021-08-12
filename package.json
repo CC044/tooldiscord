@@ -1,10 +1,9 @@
 {
   "name": "tooldiscord",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "index.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,5 +18,7 @@
   "homepage": "https://github.com/CC044/tooldiscord#readme",
   "dependencies": {
     "discord": "^0.8.2"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
