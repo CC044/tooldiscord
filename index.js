@@ -1,4 +1,4 @@
-const { Client, Intents } = require('discord.js');
+const { Client, Intents } = require('discord');
 
 const client = new Client({ intents: [Intents.FLAGS.GUILDS] });
 
