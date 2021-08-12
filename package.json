@@ -1,0 +1,19 @@
+{
+  "name": "tooldiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CC044/tooldiscord.git"
+  },
+  "author": "cctitan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CC044/tooldiscord/issues"
+  },
+  "homepage": "https://github.com/CC044/tooldiscord#readme"
+}
